@@ -1,5 +1,5 @@
 ![Imgur](https://i.imgur.com/Z4EzwWF.png)
-#Unect Jr. Zsh + Oh My Zsh
+# Unect Jr. Zsh + Oh My Zsh
 
 Olá Unectianos, nesse tópico abordaremos a instalação do Zsh e do Oh My Zsh
 
