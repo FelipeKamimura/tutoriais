@@ -2,7 +2,7 @@
 
 # Unect Jr. Ambiente Padronizado (Style Guides)
 
-Olá Unectianos, nesse tópico iremos definir as nossa style guides, style guides são formas de padronização de códigos em projetos que contenham diferentes pessoas trabalhando no mesmo.
+Olá Unectianos, nesse tópico iremos definir as nossa style guides, style guides são formas de padronização de códigos em projetos que contenham diferentes pessoas trabalhando no mesmo. Lembrando que boa parte desse tópico foi baseado nesse material https://www.youtube.com/watch?v=TI4v4Y8yRjw
 
 ---
 
