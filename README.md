@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/Yrfi0E6.png)
+![Imgur](https://i.imgur.com/Z4EzwWF.png)
 # Unect Jr. Tutoriais
 
 Olá Unectianos, este é um repositório que conterá algumas instruções de configurações e intalações de ambientes de desenvolvimento.

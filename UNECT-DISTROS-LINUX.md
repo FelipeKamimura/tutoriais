@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/Yrfi0E6.png)
+![Imgur](https://i.imgur.com/Z4EzwWF.png)
 
 # Unect Jr. Distros Linux
 

@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/Yrfi0E6.png)
+![Imgur](https://i.imgur.com/Z4EzwWF.png)
 # Unect Jr. Bash no Windows
 
 Olá Unectianos, esse é o tópico para os guerreiros, os ~~bravos~~ que ainda se mantém firmes e fortes no Windows. Será uma breve explicação de instalação do Bash no Windows.
