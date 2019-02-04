@@ -1,5 +1,5 @@
 ![Imgur](https://i.imgur.com/Z4EzwWF.png)
-#Unect Jr. VSCode
+# Unect Jr. VSCode
 
 Olá Unectianos, nesse tópico nós abordaremos algumas configurações e puglins para o VSCode.
 
